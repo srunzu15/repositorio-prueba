@@ -13,4 +13,4 @@ Mensaje editado desde GitHub
 Mensaje editado en local
 
 ## TERCER MENSAJE
-Mensaje editado en local
+Mensaje con conflicto arreglado
