@@ -7,4 +7,4 @@
 4. Doomsday
 5. Deadshot
 6. Nuevo villano
-7. Anacor
+7. El profe
