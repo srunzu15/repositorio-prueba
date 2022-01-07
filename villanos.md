@@ -6,3 +6,4 @@
 4. Doomsday
 5. Deadshot
 6. otro
+7. Mojo Yoyo
