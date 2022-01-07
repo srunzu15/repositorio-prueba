@@ -5,4 +5,4 @@
 3. Flash Reverso
 4. Doomsday
 5. Deadshot
-6. oto
+6. otro
