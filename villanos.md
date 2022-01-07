@@ -7,3 +7,4 @@
 5. Deadshot
 6. otro
 7. Mojo Yoyo
+8. Freezer
