@@ -2,17 +2,5 @@
 
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
-
-## Notas
-Pueden hacer lo que quieran...
-
-## MENSAJE
-Mensaje editado desde GitHub
-
-## SEGUNDO MENSAJE
-Mensaje editado en local
-
-## TERCER MENSAJE
-Mensaje con conflicto arreglado.
-
-#Alo
+# Mensaje escrito
+#df21b13f9aa6f5f2dc900e5fab2ba7889df64e95
